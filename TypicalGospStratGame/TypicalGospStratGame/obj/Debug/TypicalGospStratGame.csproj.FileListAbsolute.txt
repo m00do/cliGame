@@ -1,0 +1,7 @@
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\bin\Debug\TypicalGospStratGame.exe.config
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\bin\Debug\TypicalGospStratGame.exe
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\bin\Debug\TypicalGospStratGame.pdb
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\obj\Debug\TypicalGospStratGame.csproj.AssemblyReference.cache
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\obj\Debug\TypicalGospStratGame.csproj.CoreCompileInputs.cache
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\obj\Debug\TypicalGospStratGame.exe
+C:\Users\wiopo\source\repos\TypicalGospStratGame\TypicalGospStratGame\obj\Debug\TypicalGospStratGame.pdb
